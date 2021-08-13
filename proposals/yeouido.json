@@ -1,17 +1,9 @@
 [
   {
-    "id": 1,
-    "name": "BIP1: Activate network fee distribution",
-    "description": "",
-    "proposer": "hxf8f2d8f12abbbd4e70ae6e89d31b4f8301b56caf",
-    "hash": "",
-    "discussionURL": ""
-  },
-  {
-    "id": 2,
+    "id": 9,
     "name": "BIP2: Increase LTV to 35%",
     "description": "The current collateral requirements are 20% LTV (loan to value)to earn rewards, and 25% LTV to borrow the maximum amount. Let’s increase the LTV to 35% for rewards and borrowing, so you can earn and borrow more against your collateral. Increased capital efficiency (how much you can borrow given a certain amount of collateral) will make Balanced more attractive to borrowers, and increase origination fees. This should also spur more originations of bnUSD in the short term.",
-    "proposer": "hxf8f2d8f12abbbd4e70ae6e89d31b4f8301b56caf",
+    "proposer": "hx3f01840a599da07b0f620eeae7aa9c574169a4be",
     "hash": "0xec21881f9680ff2f382135af857ce53785c52db1b791447b30b19f040e1a889f",
     "discussionURL": "https://gov.balanced.network/t/bip2-increase-ltv-to-35/139"
   }
