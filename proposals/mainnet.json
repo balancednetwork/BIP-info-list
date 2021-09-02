@@ -4,7 +4,7 @@
     "name": "BIP1: Activate network fee distribution",
     "description": "",
     "proposer": "hxf8f2d8f12abbbd4e70ae6e89d31b4f8301b56caf",
-    "hash": "",
+    "hash": "0xdeeeb5255fde79637cb74285daf946f8327d98bd1ff1d37e82f26d1960fb11d9",
     "discussionURL": ""
   },
   {
@@ -21,6 +21,22 @@
     "description": "When you borrow Balanced Dollars, you pay a 1% origination fee. The implied annual interest rate (1%) is still only half that of other platforms. A small increase to 1.15% will create more income for Balanced and BALN holders, while limiting the inconvenience to borrowers.",
     "proposer": "hxf8f2d8f12abbbd4e70ae6e89d31b4f8301b56caf",
     "hash": "0x0197ac964dcae094f32b921be4138ce9037f42e78002d7d668f89faedf383a2d",
-    "discussionURL": "https://gov.balanced.network/t/fee-adjustment-origination-fees/115/1"
+    "discussionURL": "https://gov.balanced.network/t/bip3-increase-origination-fees-to-1-15/172"
+  },
+  {
+    "id": 4,
+    "name": "BIP4: Enhance the BALN token economics with bBALN (boosted BALN)",
+    "description": "To align BALN holders with Balanced’s long-term success, BIP4 incentivises people to lock their BALN for a period of time. The mechanism is inspired by Curve, and introduces a non-transferable token called bBALN. bBALN (boosted BALN) represents voting power & earning weight, and will be required to earn above the baseline of rewards. To acquire bBALN, lock BALN for 1 week up to 4 years. You’ll receive more bBALN the longer you lock it for. If approved, the team will work to make it happen.",
+    "proposer": "hxf8f2d8f12abbbd4e70ae6e89d31b4f8301b56caf",
+    "hash": "0x509cb0924bba5c823685a40375807871cd0ba79c606a609484138c43b47160cd",
+    "discussionURL": "https://gov.balanced.network/t/bip4-enhance-the-baln-token-economics-with-bbaln-boosted-baln/215"
+  },
+  {
+    "id": 5,
+    "name": "BIP5: Allocate more BALN to the DAO fund & incentivize the IUSDC/bnUSD pool",
+    "description": "More BALN should be allocated to the DAO fund to support platform growth. A small amount of BALN should also be allocated to the IUSDC/bnUSD pool to incentivize liquidity. If this proposal is approved, the DAO fund will receive 20% of daily BALN (up from 5%), borrowers will receive 10% (down from 20%), the ICX/sICX pool will receive 7% (down from 10%), the emergency reserve fund will receive 2.5% (down from 5%), and the IUSDC/bnUSD pool will be added, with a 0.5% allocation.",
+    "proposer": "hxf8f2d8f12abbbd4e70ae6e89d31b4f8301b56caf",
+    "hash": "0xb78b82b078a78859bccd7b0b96fd7f77688358e06e0970fc7f10f0c252921d25",
+    "discussionURL": "https://gov.balanced.network/t/bip5-baln-allocation-adjustment/252"
   }
 ]
