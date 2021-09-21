@@ -46,5 +46,13 @@
     "proposer": "hxb41775a05572c421917b6d5d80fd5f31c495b7f8",
     "hash": "0x1ec3d4f4469d2f43581064243b7f8237895d18604c512d0f5b2242441864a807",
     "discussionURL": "https://gov.balanced.network/t/bip6-distribute-network-fees-in-baln-bnusd-and-sicx/337"
+  },
+  {
+    "id": 7,
+    "name": "BIP7: Adjust the Rebalancing Threshold to +-3%",
+    "description": "Currently, the rebalancing threshold is set to 5%, which means the price of bnUSD can be rebalanced to $0.95 and $1.05. BIP7 proposes to lower the threshold to 3%, which will result in tighter peg – $0.97 to $1.03. This will improve the stablecoin utility of bnUSD by reducing the 10% range to 6%.",
+    "proposer": "hx9b402cbf72f713efd6b8d7a709cb6eb7ed7695cd",
+    "hash": "0xe70d30c10e44ccadd23d79a79bd1224672e6f0b01dc47d4475bd5bccf5dc7e2f",
+    "discussionURL": "https://gov.balanced.network/t/bip7-adjust-the-rebalancing-threshold-to-3/345"
   }
 ]
