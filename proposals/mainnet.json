@@ -41,10 +41,10 @@
   },
   {
     "id": 6,
-    "name": "BIP6: Distribute network fees in BALN, bnUSD, and sICX",
+    "name": "BIP6: Distribute network fees in BALN, bnUSD, and sICX, and convert all other fees to BALN",
     "description": "As the number of assets on the Balanced exchange increases, it will become infeasible to distribute network fees in each asset type. Let's limit the assets to BALN, bnUSD, and sICX, and convert everything else into BALN before distributing network fees. This gives staked BALN holders exposure to three different asset types: an application layer token (BALN), a stablecoin (bnUSD), and a protocol layer token (sICX). It will also increase the buying pressure for BALN.",
     "proposer": "hxb41775a05572c421917b6d5d80fd5f31c495b7f8",
-    "hash": "0x1ec3d4f4469d2f43581064243b7f8237895d18604c512d0f5b2242441864a807",
+    "hash": "0x6e8abed78b2e2f51c185aabf9cb8400cf4481203ac6df98b42c8d5936f752cdd",
     "discussionURL": "https://gov.balanced.network/t/bip6-distribute-network-fees-in-baln-bnusd-and-sicx/337"
   }
 ]
